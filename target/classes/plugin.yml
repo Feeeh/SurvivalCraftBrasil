@@ -1,0 +1,25 @@
+name: SurvivalServer
+version: 1.1.0
+main: com.feeeh.SurvivalServer
+authors: [Feeeh]
+description: O kit de Survival do Feeeh :)
+
+commands:
+#  voar:
+#    description: Deixa com que o jogador voe com um comando.
+#    usage: /<command>
+#    aliases: [fly, f]
+
+#  rtp:
+#    description: Teleporta o jogador para um lugar aleatório do mapa.
+#    usage: /<command>
+#    aliases: [tpal]
+
+  spawn:
+    description: Retorna o jogador ao spawn.
+    usage: /<command>
+    aliases: [cidade, hub]
+
+  warp:
+    description: Abre uma interface de usuário para com que o usuário consiga teleportar para outros mundos.
+    usage: /<command>

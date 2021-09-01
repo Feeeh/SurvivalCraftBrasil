@@ -1,0 +1,2 @@
+world-border: true # true se você quiser limitar o teleporte.
+border: 10000 # valor máximo do x e do z
