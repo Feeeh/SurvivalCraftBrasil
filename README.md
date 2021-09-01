@@ -1,2 +1,2 @@
 # SurvivalCraftBrasil
-Plugin made for my old server called Survival Craft Brasil.
+Plugin made for my old Minecraft server called Survival Craft Brasil.
